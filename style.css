@@ -1,15 +1,18 @@
 body {
-  min-height: 3000;
+  min-height: auto;
 }
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 11rem;
   background-color: rgb(237, 221, 250);
+  overflow: hidden;
 }
 
 #projects {
   background-color: #edddfa;
+  overflow: hidden;
 }
 
 section {
-  padding-top: 7rem;
+  padding-top: 6rem;
+  overflow: hidden;
 }
